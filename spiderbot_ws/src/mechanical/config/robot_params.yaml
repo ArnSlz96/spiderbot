@@ -1,4 +1,6 @@
 # config/robot_params.yaml
+NAME: SPIDERBOT
+VERSION: "0.0.1"
 
 # LIMB LENGTHS
 # Lengths in mm
