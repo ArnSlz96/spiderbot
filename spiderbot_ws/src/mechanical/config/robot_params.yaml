@@ -1,5 +1,12 @@
 # config/robot_params.yaml
 
-# Limb lengths
-# Joint limits
+# LIMB LENGTHS
+# Lengths in mm
+LEG_SEGMENT1_LENGTH: 1
+LEG_SEGMENT2_LENGTH: 1
+
+# JOINT LIMITS
+# Angles in degrees
+
+
 # Etc
