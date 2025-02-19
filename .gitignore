@@ -55,3 +55,6 @@ __pycache__/
 *.swo
 *.swn
 *.bak
+
+# Ignore .coverage file from pytest --cov command
+.coverage
